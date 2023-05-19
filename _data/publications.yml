@@ -1,9 +1,9 @@
 featured:
 - {name: 'Lee, J. and Cooley, D., 2021. Transformed-linear prediction for extremes. arXiv preprint arXiv:2111.03754.', url: '/publications/LinearPredictionforExtremes_unblinded.pdf'}
 - {name: 'Lee, J. and Cooley, D., 2022. Partial Tail Correlation for Extremes. arXiv preprint arXiv:2210.02048.', url: '/publications/Partial Tail Correlation for Extremes.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
+#- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
 
 index:
 - {name: 'Lee, J. and Cooley, D., 2021. Transformed-linear prediction for extremes. arXiv preprint arXiv:2111.03754.', url: '/publications/LinearPredictionforExtremes_unblinded.pdf'}
 - {name: 'Lee, J. and Cooley, D., 2022. Partial Tail Correlation for Extremes. arXiv preprint arXiv:2210.02048.', url: '/publications/Partial Tail Correlation for Extremes.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
+#- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
