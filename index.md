@@ -3,6 +3,7 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My research interests lie in statistical methodology of heavy-tailed phenomena and modeling extremal dependence.\\
+$\cdot$ Extreme value theory, heavy-tailed modeling, stochastic processes\\
+With extreme value theory, I am highly motivated to broaden my field of research to the following areas.\\
+$\cdot$ Graphical models, statistical machine learning, spatial statistics, Bayesian modeling, time series analysis, application in environmental science and finance.
