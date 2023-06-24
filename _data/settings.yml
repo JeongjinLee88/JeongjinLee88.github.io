@@ -14,4 +14,4 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 contacts:
-- {name: 'Jeongjin Lee', title: 'Postdoc', institution: 'naXys-Unamur & UCLouvain', institution_address: 'Rue Joseph Grafé 2, 5000 Namur', email: 'stecophil88@gmail.com' 'jeongjin.lee@unamur.be', office: 'Faculty of Sciences, 365', image: 'assets/img/contact.jpg'}
+- {name: 'Jeongjin Lee', title: 'Postdoc', institution: 'naXys-Unamur & UCLouvain', institution_address: 'Rue Joseph Grafe 2, 5000 Namur', email: 'stecophil88@gmail.com', office: 'Faculty of Sciences, 365', image: 'assets/img/contact.jpg'}
