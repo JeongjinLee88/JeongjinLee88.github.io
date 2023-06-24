@@ -1,20 +1,12 @@
 menu:
-#- {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 - {name: 'courses', url: '/courses'}
 - {name: 'contact', url: '/contact'}
 
-#people:
-#- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-#- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-#- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
-
 social:
 - {icon: 'github', link: 'https://github.com/JeongjinLee88'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/JeongjinLee88'}
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -22,4 +14,4 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 contacts:
-- {name: 'Jeongjin Lee', title: 'Postdoc', institution: 'naXys-Unamur & UCLouvain', institution_address: 'Rue Joseph Grafé 2, 5000 Namur', email: 'stecophil88@gmail.com' 'jeongjin.lee@unamur.be', office: 'Faculty of Sciences 365', image: 'assets/img/contact.jpg'}
+- {name: 'Jeongjin Lee', title: 'Postdoc', institution: 'naXys-Unamur & UCLouvain', institution_address: 'Rue Joseph Grafé 2, 5000 Namur', email: 'stecophil88@gmail.com' 'jeongjin.lee@unamur.be', office: 'Faculty of Sciences, 365', image: 'assets/img/contact.jpg'}
